@@ -1,0 +1,1 @@
+this is a udemycourse project that i have to finish in order to have a ore understanding about logistic regression
